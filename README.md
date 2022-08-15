@@ -16,6 +16,5 @@ example for gh pages
 
 ## html links
 
-
-
+- api [link](https://yoowaan.github.io/pages-example/apis/example.html)
 
